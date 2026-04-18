@@ -1,6 +1,6 @@
 # 🚨 HR Analytics Dashboard (Tableau) | Employee Attrition Insights
 
-![Employee-Attrition-Insights](images/hr-dashboard.png)
+![HR Dashboard](hr-dashboard.png)
 
 <p align="center">
   <a href="https://public.tableau.com/shared/PM44QW8JM?:display_count=n&:origin=viz_share_link">
