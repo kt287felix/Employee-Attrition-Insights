@@ -2,15 +2,6 @@
 
 ![HR Dashboard](hr-dashboard.png)
 
-<p align="center">
-  <a href="https://public.tableau.com/shared/PM44QW8JM?:display_count=n&:origin=viz_share_link">
-    <img src="https://img.shields.io/badge/View%20Live-Dashboard-blue?style=for-the-badge&logo=tableau" />
-  </a>
-  <img src="https://img.shields.io/badge/Tool-Tableau-orange?style=for-the-badge&logo=tableau" />
-  <img src="https://img.shields.io/badge/Focus-HR%20Analytics-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Portfolio%20Project-black?style=for-the-badge" />
-</p>
-
 ---
 
 ## 📊 Project Overview
@@ -76,7 +67,7 @@ This project strengthened my ability to:
 ---
 
 ## 👤 About Me
-Aspiring **Data Analyst** with a background in Statistics, passionate about transforming data into actionable insights.
+**Data Analyst** with a background in Statistics, passionate about transforming data into actionable insights.
 
 🔗 LinkedIn: (https://www.linkedin.com/in/felix-onyango-2018a5305/)
 
